@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "RPG_Unreal (Debug)",
+			"request": "launch",
+			"preLaunchTask": "RPG_Unreal Win64 Debug Build",
+			"program": "E:\\UnrealProjects\\RPG_Unreal\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "E:\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "RPG_Unreal (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "RPG_Unreal Win64 DebugGame Build",
+			"program": "E:\\UnrealProjects\\RPG_Unreal\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "E:\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "RPG_Unreal (Development)",
+			"request": "launch",
+			"preLaunchTask": "RPG_Unreal Win64 Development Build",
+			"program": "E:\\UnrealProjects\\RPG_Unreal\\Binaries\\Win64\\UE4.exe",
+			"args": [
+			],
+			"cwd": "E:\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "RPG_Unreal (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "RPG_Unreal Win64 Shipping Build",
+			"program": "E:\\UnrealProjects\\RPG_Unreal\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "E:\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "RPG_Unreal (Test)",
+			"request": "launch",
+			"preLaunchTask": "RPG_Unreal Win64 Test Build",
+			"program": "E:\\UnrealProjects\\RPG_Unreal\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "E:\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "RPG_UnrealEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "RPG_UnrealEditor Win64 Debug Build",
+			"program": "E:\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"E:\\UnrealProjects\\RPG_Unreal\\RPG_Unreal.uproject"
+			],
+			"cwd": "E:\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "RPG_UnrealEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "RPG_UnrealEditor Win64 DebugGame Build",
+			"program": "E:\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"args": [
+				"E:\\UnrealProjects\\RPG_Unreal\\RPG_Unreal.uproject"
+			],
+			"cwd": "E:\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "RPG_UnrealEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "RPG_UnrealEditor Win64 Development Build",
+			"program": "E:\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"E:\\UnrealProjects\\RPG_Unreal\\RPG_Unreal.uproject"
+			],
+			"cwd": "E:\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "E:\\Epic Games\\UE_4.27\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=E:\\UnrealProjects\\RPG_Unreal\\RPG_Unreal.uproject",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "E:\\Epic Games\\UE_4.27"
+		}
+	]
+}

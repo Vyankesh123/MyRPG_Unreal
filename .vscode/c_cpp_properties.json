@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "RPG_UnrealEditor Editor Win64 Development (RPG_Unreal)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "E:\\UnrealProjects\\RPG_Unreal\\.vscode\\compileCommands_RPG_Unreal.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "E:\\UnrealProjects\\RPG_Unreal\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

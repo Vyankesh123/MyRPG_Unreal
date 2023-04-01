@@ -1,0 +1,37 @@
+[
+	{
+		"file": "E:\\\\UnrealProjects\\\\RPG_Unreal\\\\Source\\\\RPG_Unreal\\\\MainCharacter.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"E:\\UnrealProjects\\RPG_Unreal\\.vscode\\compileCommands_RPG_Unreal\\RPG_Unreal.210.rsp\"",
+		"directory": "E:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\UnrealProjects\\\\RPG_Unreal\\\\Source\\\\RPG_Unreal\\\\MainCharacter.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"E:\\UnrealProjects\\RPG_Unreal\\.vscode\\compileCommands_RPG_Unreal\\RPG_Unreal.210.rsp\"",
+		"directory": "E:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\UnrealProjects\\\\RPG_Unreal\\\\Source\\\\RPG_Unreal\\\\RPG_Unreal.Build.cs",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"E:\\UnrealProjects\\RPG_Unreal\\.vscode\\compileCommands_RPG_Unreal\\RPG_Unreal.210.rsp\"",
+		"directory": "E:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\UnrealProjects\\\\RPG_Unreal\\\\Source\\\\RPG_Unreal\\\\RPG_Unreal.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"E:\\UnrealProjects\\RPG_Unreal\\.vscode\\compileCommands_RPG_Unreal\\RPG_Unreal.210.rsp\"",
+		"directory": "E:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\UnrealProjects\\\\RPG_Unreal\\\\Source\\\\RPG_Unreal\\\\RPG_Unreal.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"E:\\UnrealProjects\\RPG_Unreal\\.vscode\\compileCommands_RPG_Unreal\\RPG_Unreal.210.rsp\"",
+		"directory": "E:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\UnrealProjects\\\\RPG_Unreal\\\\Source\\\\RPG_Unreal\\\\RPG_UnrealGameModeBase.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"E:\\UnrealProjects\\RPG_Unreal\\.vscode\\compileCommands_RPG_Unreal\\RPG_Unreal.210.rsp\"",
+		"directory": "E:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\UnrealProjects\\\\RPG_Unreal\\\\Source\\\\RPG_Unreal\\\\RPG_UnrealGameModeBase.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"E:\\UnrealProjects\\RPG_Unreal\\.vscode\\compileCommands_RPG_Unreal\\RPG_Unreal.210.rsp\"",
+		"directory": "E:\\Epic Games\\UE_4.27\\Engine\\Source"
+	}
+]
